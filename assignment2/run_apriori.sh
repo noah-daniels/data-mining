@@ -1,0 +1,12 @@
+./apriori/apriori data/train.txt 3 300 apriori/results/300.txt
+./apriori/apriori data/train.txt 3 250 apriori/results/250.txt
+./apriori/apriori data/train.txt 3 200 apriori/results/200.txt
+./apriori/apriori data/train.txt 3 150 apriori/results/150.txt
+./apriori/apriori data/train.txt 3 100 apriori/results/100.txt
+./apriori/apriori data/train.txt 3 75 apriori/results/75.txt
+./apriori/apriori data/train.txt 3 50 apriori/results/50.txt
+./apriori/apriori data/train.txt 3 25 apriori/results/25.txt
+./apriori/apriori data/train.txt 3 20 apriori/results/20.txt
+./apriori/apriori data/train.txt 3 15 apriori/results/15.txt
+./apriori/apriori data/train.txt 3 10 apriori/results/10.txt
+./apriori/apriori data/train.txt 3 5 apriori/results/5.txt

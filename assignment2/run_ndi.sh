@@ -1,0 +1,12 @@
+./ndi/bf/ndi data/train.txt 300 100 ndi/results/300.txt
+./ndi/bf/ndi data/train.txt 250 100 ndi/results/250.txt
+./ndi/bf/ndi data/train.txt 200 100 ndi/results/200.txt
+./ndi/bf/ndi data/train.txt 150 100 ndi/results/150.txt
+./ndi/bf/ndi data/train.txt 100 100 ndi/results/100.txt
+./ndi/bf/ndi data/train.txt 75 100 ndi/results/75.txt
+./ndi/bf/ndi data/train.txt 50 100 ndi/results/50.txt
+./ndi/bf/ndi data/train.txt 25 100 ndi/results/25.txt
+./ndi/bf/ndi data/train.txt 20 100 ndi/results/20.txt
+./ndi/bf/ndi data/train.txt 15 100 ndi/results/15.txt
+./ndi/bf/ndi data/train.txt 10 100 ndi/results/10.txt
+./ndi/bf/ndi data/train.txt 5 100 ndi/results/5.txt
